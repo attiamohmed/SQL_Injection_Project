@@ -25,6 +25,12 @@ This setup ensures that the application will be accessible via `http://localhost
 
 To access the solid (secured) version of the application, open your browser and enter the following URL: `http://localhost/SQL_inject/Solid_app/index.html`
 
+Use the following credentials to test the solid version:
+
+- **Username**: `Edward`
+- **Password**: `ed`
+
+These credentials should successfully grant access in the solid version.
 
 ### Accessing the Vulnerable Version
 
