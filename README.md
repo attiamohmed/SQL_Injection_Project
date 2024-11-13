@@ -27,8 +27,8 @@ To access the solid (secured) version of the application, open your browser and 
 
 Use the following credentials to test the solid version:
 
-- **Username**: `Edward`
-- **Password**: `ed`
+- **Username**: `Hanna`
+- **Password**: `ebc`
 
 These credentials should successfully grant access in the solid version.
 
